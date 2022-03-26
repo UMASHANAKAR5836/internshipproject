@@ -1,0 +1,64 @@
+.slides{
+    /* style="margin-left: 300px;" */
+    height: 10%;
+}
+.navbar{
+    background-image: url('back8.jpg');
+
+    background-attachment: fixed;
+    
+}
+.card-text{
+    font-family: 'Shadows Into Light', cursive;
+    font-size: x-large;
+}
+.service{
+    background-image: url("back7.jpg");
+    color: rgb(36, 50, 247);
+    font-weight: bolder;
+    outline: auto;
+    background-attachment: fixed;
+    margin-left: 7%;
+    margin-right:7%;
+    font-family: 'Ramaraja', serif;
+}
+
+
+.h2{
+    font-size: 4vw;
+    text-align: center;
+    
+    text-decoration: underline overline dotted;
+    font-family: 'Caveat', cursive;
+   
+}
+h2{
+text-align: center;
+
+}
+.a img{
+    height: 86vh;
+}
+
+.aboutus{
+    background-image:url("back6.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+   
+}
+.apara{
+    font-family: 'Playfair Display', serif;
+}
+
+
+.s{
+    background-image: url("back2.jpg");
+   
+    background-attachment: fixed;
+    margin-left: 7%;
+    margin-right:7%;
+}
+a{
+    text-decoration: none;
+}
